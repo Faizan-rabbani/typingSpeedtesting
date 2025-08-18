@@ -33,7 +33,7 @@ Live Demo: [https://faizantypingspeedtest.netlify.app/](#)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/typing-speed-test.git
+   git clone https://github.com/Faizan-rabbani/typing-speed-test.git
    ```
 2. Open index.html in your browser.
 
